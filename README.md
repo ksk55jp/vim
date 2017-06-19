@@ -1,6 +1,6 @@
 #  create directory like below
 cd ~
-mkdir -p bin/dotfiles/vim
+mkdir -p bin/dotfiles/
 cd !$
 #
 #
